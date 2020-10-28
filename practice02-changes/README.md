@@ -4,8 +4,6 @@ This lession will provide you with a basic understanding of:
 
 1. How to change existing infratructure
 2. How to import infratructure into the tfstate
-3. Redeploy individual resources
-4. Destroying infrastructure
 
 ## Authenticating
 
