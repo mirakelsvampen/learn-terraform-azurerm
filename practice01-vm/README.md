@@ -16,7 +16,7 @@ You must first login with az cli and set the correct context. Terraform will use
 
 ## Create SSH keys
 
-1. Open a Powershell window and run the following command. Continue by just pressing enter when promted.
+1. Open a Powershell or WSL window and run the following command. Continue by just pressing enter when promted.
 **If you have a pre-existing key that is named id_rsa then you can use that one and skip this step**
 
 `ssh-keygen -t rsa -C "terraform_practice`
